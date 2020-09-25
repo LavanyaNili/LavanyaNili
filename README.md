@@ -4,8 +4,8 @@ I believe software development is more than writing a code. Its more to do with 
 
 Read more to know more!
 
-- 🔭 I’m currently working on React web applications. 
-- 🌱 I’m currently learning Springboot and node.js
+- 🔭 I’m hooked on to creating web applications and the nuances involved in cloud technology. Getting my hands dirty with React
+- 🌱 I’m currently learning Springboot and node.js ! What a beauty.
 - 🤔 I’m looking for help with my co-op 
 - 💬 Ask me about anything technical or otherwise
 - 📫 How to reach me: n.lavanya22@gmail.com
