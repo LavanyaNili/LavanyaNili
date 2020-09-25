@@ -2,7 +2,7 @@
 
 I believe software development is more than writing a code. Its more to do with the efficiency,cost and a vision. 
 
-Here are some ideas to get you started:
+Read more to know more!
 
 - 🔭 I’m currently working on React web applications. 
 - 🌱 I’m currently learning Springboot and node.js
